@@ -18,7 +18,7 @@
   "dependencies": {
     "azure-pipelines-task-lib": "^3.1.0",
     "handlebars": "4.7.7",
-    "minimatch": "3.0.2",
+    "minimatch": "3.0.5",
     "tunnel": "0.0.4",
     "underscore": "^1.13.6"
   },
